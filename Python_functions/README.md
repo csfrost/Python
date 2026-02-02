@@ -1,6 +1,6 @@
 # 🐍 Python Functions
 
-Python functions are pivotal in enhancing code modularity and reusability. They allow developers to encapsulate specific functionality, making code more organised and efficient. This repository covers the fundamentals of Python functions — from defining and calling functions to working with advanced argument patterns — through practical examples and hands-on exercises.
+Python functions are pivotal in enhancing code modularity and reusability. They allow developers to encapsulate specific functionality, making code more organised and efficient. This repository covers the fundamentals of Python functions, from defining and calling functions to working with advanced argument patterns, through practical examples and hands-on exercises.
 
 ---
 
